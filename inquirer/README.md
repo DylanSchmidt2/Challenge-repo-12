@@ -113,7 +113,7 @@ var prompt = inquirer.createPromptModule();
 prompt(questions).then(/* ... */);
 ```
 
-### Objects
+### Objects 
 
 <a name="objects"></a>
 
