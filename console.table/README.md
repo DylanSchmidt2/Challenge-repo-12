@@ -72,7 +72,7 @@ bar   20
 console.table([{name: 'foo'}, {name: 'bar'}]);
 </script>
 ```
-
+ 
 ## Details
 
 Uses [easy-table](https://www.npmjs.org/package/easy-table) for printing
