@@ -1,6 +1,6 @@
 # Employee Tracker !
 
-(Not completed or working)
+--(NOT COMPLETED)--
 
 This challenge was given by The University of Minnesota Bootcamp 
 
