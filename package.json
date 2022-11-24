@@ -1,0 +1,25 @@
+{
+  "name": "content-management-systems-challenge-12",
+  "version": "1.0.0",
+  "description": "Challenge 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DylanSchmidt2/Challenge-repo-12"
+  },
+  "author": "DylanSchmidt2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DylanSchmidt2/Challenge-repo-12"
+  },
+  "homepage": "https://github.com/DylanSchmidt2/Challenge-repo-12",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
