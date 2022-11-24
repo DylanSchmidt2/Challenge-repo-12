@@ -1,5 +1,7 @@
 # Employee Tracker !
+
 (Not completed or working)
+
 This challenge was given by The University of Minnesota Bootcamp 
 
 This application uses MySQL, Node.js, Inquirer, and console.table package
