@@ -31,7 +31,7 @@ selectionMenu();
 const getAllDepts = () => {
 return new Promise((resolve, reject) => {
 var departmentChoices;
-db.query("SELECT * FROM employee_db.department", function (err, results) {
+db.query("SELECT * FROM employee_db.department", function (err, results) { 
 if (err) {
 console.error(err);
 return reject(err);
