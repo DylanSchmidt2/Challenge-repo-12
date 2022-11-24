@@ -14,7 +14,13 @@ This application uses MySQL, Node.js, Inquirer, and console.table package
 * MySQL
 * Node.js
 ### Usage
-This application is currently incomplete/not working
+User shoud run.. 
+```
+node index.js
+```
+in it's root terminal
+
+(This application is currently incomplete/not working)
 ### Bugs
 When user runs..
 ```
