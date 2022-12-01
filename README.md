@@ -3,11 +3,7 @@
 This challenge was given by The University of Minnesota Bootcamp 
 
 This application uses MySQL, Node.js, Inquirer, and console.table package
-### This project has the following features: 
-*  
-* 
-*  
-*  
+
 ### Installation / Dependencies 
 * (npm) Inquirer 
 * (npm) Console.table
