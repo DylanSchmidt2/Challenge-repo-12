@@ -1,4 +1,4 @@
-# Employee Tracker ! --(INCOMPLETE 11.24.22)--
+# Employee Tracker ! 
 
 This challenge was given by The University of Minnesota Bootcamp 
 
@@ -14,15 +14,7 @@ User shoud run..
 ```
 node index.js
 ```
-in it's root terminal
-
-(This application is currently incomplete/not working)
-### Bugs
-When user runs..
-```
-node index.js
-```
-The application will not proceed
+in root terminal
 ### Extra add-ons
 N/A
 ###### I enjoy adding quality of life (qol) functions to assignments, time permitting. Unfortunately, I didn't have time to bring them to life on this assignment.
