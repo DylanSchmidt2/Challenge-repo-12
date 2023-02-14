@@ -25,7 +25,6 @@ N/A
 ###### Extra-info
 N/A
 ### Thanks to:
-* Richard Martin
 * (TA)Akon Abazary
 * Mason Russo
 * Ben Wolf
